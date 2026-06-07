@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="884" viewBox="0 0 900 884" font-family="sans-serif" role="img" aria-label="Dominic Lim — Computer Science student building backend and network systems">
+  
+
+  
+  <rect x="0" y="0" width="900" height="884" fill="#0b0b0d"></rect>
+  <rect x="0.5" y="0.5" width="899" height="883" fill="none" stroke="#1c1c1f"></rect>
+
+  
+  <text class="mono" x="64" y="64" font-size="13" letter-spacing="0.4">
+    <tspan fill="#e8a838">●</tspan><tspan fill="#7d7d78">  open to summer 2026    </tspan><tspan fill="#3a3a3d">/</tspan><tspan fill="#7d7d78">    uc berkeley    </tspan><tspan fill="#3a3a3d">/</tspan><tspan fill="#7d7d78">    bay area, ca</tspan>
+  </text>
+
+  
+  <text class="disp" x="62" y="152" font-size="58" letter-spacing="-1.6" fill="#ededec">
+    <tspan font-weight="300">Dominic </tspan><tspan font-weight="600">Lim</tspan>
+  </text>
+
+  
+  <text class="disp" x="64" y="206" font-size="18" fill="#b8b8b5">Computer Science student building <tspan font-weight="600" fill="#ededec">backend &amp; network systems</tspan></text>
+  <text class="disp" x="64" y="234" font-size="18" fill="#b8b8b5">that hold up at scale — infrastructure for a million-plus</text>
+  <text class="disp" x="64" y="262" font-size="18" fill="#b8b8b5">users, kept fast and quiet.</text>
+
+  
+  <line x1="64" y1="300" x2="836" y2="300" stroke="#1c1c1f"></line>
+
+  
+  <text class="mono" x="64" y="340" font-size="12" fill="#e8a838" letter-spacing="0.5">01</text>
+  <text class="mono" x="152" y="340" font-size="11" fill="#7d7d78" letter-spacing="2.6">SELECTED WORK</text>
+
+  <text class="disp" x="152" y="376" font-size="16" font-weight="500" fill="#ededec">Moonsworth</text>
+  <text class="mono" x="152" y="395" font-size="12" fill="#7d7d78">network analyst · systems engineer</text>
+  <text class="mono" x="836" y="376" font-size="12" fill="#7d7d78" text-anchor="end">2024 — 26</text>
+  <line x1="152" y1="410" x2="836" y2="410" stroke="#1c1c1f"></line>
+
+  <text class="disp" x="152" y="438" font-size="16" font-weight="500" fill="#ededec">Replit</text>
+  <text class="mono" x="152" y="457" font-size="12" fill="#7d7d78">independent networking analyst</text>
+  <text class="mono" x="836" y="438" font-size="12" fill="#7d7d78" text-anchor="end">2021 — 23</text>
+  <line x1="152" y1="472" x2="836" y2="472" stroke="#1c1c1f"></line>
+
+  <text class="disp" x="152" y="500" font-size="16" font-weight="500" fill="#ededec">ProdigyAI</text>
+  <text class="mono" x="152" y="519" font-size="12" fill="#7d7d78">founder · llm tutoring platform</text>
+  <text class="mono" x="836" y="500" font-size="12" fill="#7d7d78" text-anchor="end">2023 —</text>
+
+  
+  <text class="mono" x="64" y="564" font-size="12" fill="#e8a838" letter-spacing="0.5">02</text>
+  <text class="mono" x="152" y="564" font-size="11" fill="#7d7d78" letter-spacing="2.6">BY THE NUMBERS</text>
+
+  <text class="disp" x="152" y="608" font-size="30" font-weight="300" fill="#e8a838">1M+</text>
+  <text class="mono" x="152" y="630" font-size="11" fill="#7d7d78">users served</text>
+  <text class="disp" x="340" y="608" font-size="30" font-weight="300" fill="#e8a838">11×</text>
+  <text class="mono" x="340" y="630" font-size="11" fill="#7d7d78">lower latency</text>
+  <text class="disp" x="528" y="608" font-size="30" font-weight="300" fill="#e8a838">450M</text>
+  <text class="mono" x="528" y="630" font-size="11" fill="#7d7d78">repos protected</text>
+  <text class="disp" x="710" y="608" font-size="30" font-weight="300" fill="#e8a838">720×</text>
+  <text class="mono" x="710" y="630" font-size="11" fill="#7d7d78">cost reduced</text>
+
+  
+  <text class="mono" x="64" y="676" font-size="12" fill="#e8a838" letter-spacing="0.5">03</text>
+  <text class="mono" x="152" y="676" font-size="11" fill="#7d7d78" letter-spacing="2.6">TOOLKIT</text>
+
+  <text class="mono" x="152" y="712" font-size="14" fill="#7d7d78">core</text>
+  <text class="mono" x="260" y="712" font-size="14" fill="#cfcfcc">Python · C/C++ · Java · JavaScript</text>
+  <text class="mono" x="152" y="738" font-size="14" fill="#7d7d78">backend</text>
+  <text class="mono" x="260" y="738" font-size="14" fill="#cfcfcc">Django · FastAPI · Celery · Redis</text>
+  <text class="mono" x="152" y="764" font-size="14" fill="#7d7d78">infra</text>
+  <text class="mono" x="260" y="764" font-size="14" fill="#cfcfcc">Docker · Nginx · Linux · RabbitMQ</text>
+
+  
+  <text class="mono" x="64" y="810" font-size="12" fill="#e8a838" letter-spacing="0.5">04</text>
+  <text class="mono" x="152" y="810" font-size="11" fill="#7d7d78" letter-spacing="2.6">ELSEWHERE</text>
+
+  <text class="mono" x="152" y="844" font-size="13" fill="#ededec">github <tspan fill="#7d7d78">↗</tspan>      linkedin <tspan fill="#7d7d78">↗</tspan>      dominiclim@berkeley.edu</text>
+
+  
+  <text class="mono" x="64" y="872" font-size="11" fill="#3a3a3d">// always happy to talk systems, scale, and hard backend problems</text>
+</svg>
